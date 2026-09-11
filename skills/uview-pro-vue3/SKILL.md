@@ -1,7 +1,7 @@
 ---
 name: uview-pro-vue3
 description: Provides comprehensive guidance for uView Pro Vue 3 component library including components, tools, layouts, and templates. Use when the user asks about uView Pro, needs to build Vue 3 applications with uView Pro, or implement mobile-first UI components.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

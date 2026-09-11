@@ -1,7 +1,7 @@
 ---
 name: uview-vue2
 description: Provides comprehensive guidance for uView Vue 2 component library including components, tools, and layouts. Use when the user asks about uView for Vue 2, needs to build Vue 2 applications with uView, or use uView components.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
